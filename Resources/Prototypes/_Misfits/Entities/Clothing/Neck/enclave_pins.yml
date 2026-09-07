@@ -5,7 +5,7 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckPinEnclavePrivate
-  name: U.S. Army private pin
+  name: enclave private pin
   description: A United States Government rank insignia showing the wearer's rank.
   components:
   - type: RankTitle
@@ -29,7 +29,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclavePFC
-  name: U.S. Army private first class pin
+  name: enclave private first class pin
   components:
   - type: RankTitle
     rankTitle: Private First Class
@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveSpecialist
-  name: U.S. Army specialist pin
+  name: enclave specialist pin
   components:
   - type: RankTitle
     rankTitle: Specialist
@@ -54,7 +54,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveSergeant
-  name: U.S. Army sergeant pin
+  name: enclave sergeant pin
   components:
   - type: RankTitle
     rankTitle: Sergeant
@@ -66,7 +66,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveStaffSergeant
-  name: U.S. Army staff sergeant pin
+  name: enclave staff sergeant pin
   components:
   - type: RankTitle
     rankTitle: Staff Sergeant
@@ -78,7 +78,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveSFC
-  name: U.S. Army sergeant first class pin
+  name: enclave sergeant first class pin
   components:
   - type: RankTitle
     rankTitle: Sergeant First Class
@@ -90,7 +90,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveMasterSergeant
-  name: U.S. Army master sergeant pin
+  name: enclave master sergeant pin
   components:
   - type: RankTitle
     rankTitle: Master Sergeant
@@ -103,7 +103,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveSergeantMajor
-  name: U.S. Army sergeant major pin
+  name: enclave sergeant major pin
   components:
   - type: RankTitle
     rankTitle: Sergeant Major
@@ -116,7 +116,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveSecondLieutenant
-  name: U.S. Army second lieutenant pin
+  name: enclave second lieutenant pin
   components:
   - type: RankTitle
     rankTitle: Second Lieutenant
@@ -133,7 +133,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveFirstLieutenant
-  name: U.S. Army first lieutenant pin
+  name: enclave first lieutenant pin
   components:
   - type: RankTitle
     rankTitle: First Lieutenant
@@ -146,7 +146,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveCaptain
-  name: U.S. Army captain pin
+  name: enclave captain pin
   components:
   - type: RankTitle
     rankTitle: Captain
@@ -158,7 +158,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveMajor
-  name: U.S. Army major pin
+  name: enclave major pin
   components:
   - type: RankTitle
     rankTitle: Major
@@ -171,7 +171,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveLtColonel
-  name: U.S. Army lieutenant colonel pin
+  name: enclave lieutenant colonel pin
   components:
   - type: RankTitle
     rankTitle: Lieutenant Colonel
@@ -183,7 +183,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveColonel
-  name: U.S. Army colonel pin
+  name: enclave colonel pin
   components:
   - type: RankTitle
     rankTitle: Colonel
@@ -195,7 +195,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveSecondLieutenant
   id: ClothingNeckPinEnclaveGeneral
-  name: U.S. Army general pin
+  name: enclave general pin
   components:
   - type: RankTitle
     rankTitle: General
@@ -208,7 +208,7 @@
 - type: entity
   parent: ClothingNeckPinEnclavePrivate
   id: ClothingNeckPinEnclaveJuniorScientist
-  name: U.S. Army junior scientist pin
+  name: enclave junior scientist pin
   description: A United States Government research division insignia showing the wearer's rank.
   components:
   - type: RankTitle
@@ -226,7 +226,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveJuniorScientist
   id: ClothingNeckPinEnclaveScientist
-  name: U.S. Army scientist pin
+  name: enclave scientist pin
   components:
   - type: RankTitle
     rankTitle: Scientist
@@ -243,7 +243,7 @@
 - type: entity
   parent: ClothingNeckPinEnclaveScientist
   id: ClothingNeckPinEnclaveHeadScientist
-  name: U.S. Army head scientist pin
+  name: enclave head scientist pin
   components:
   - type: RankTitle
     rankTitle: Head Scientist

@@ -173,7 +173,7 @@
 - type: entity
   parent: N14ClothingHeadsetAlt
   id: N14ClothingHeadsetEnclave
-  name: U.S. Army radio earpiece
+  name: enclave radio earpiece
   components:
   - type: ContainerFill
     containers:
