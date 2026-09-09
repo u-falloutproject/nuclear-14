@@ -823,6 +823,7 @@
         - EnclaveScientist
         - EnclaveJuniorScientist
         - EnclaveHeadScientist
+        - EnclaveRemnant
   items:
     - N14ClothingHeadHatEnclaveIntel
 
@@ -840,6 +841,7 @@
         - EnclaveSeniorOfficer
         - EnclaveCommander
         - EnclaveReformer
+        - EnclaveRemnant
   items:
     - N14ClothingHeadHatEnclavePeacekeeperCap
 
@@ -868,6 +870,7 @@
         - EnclaveScientist
         - EnclaveJuniorScientist
         - EnclaveHeadScientist
+        - EnclaveRemnant
   items:
     - N14ClothingHeadHatEnclaveScientist
 
@@ -990,13 +993,17 @@
   requirements:
     - !type:CharacterJobRequirement
       jobs:
-        # #Misfits Change - Great Khan restored alongside the Eighties department.
+        # #Misfits Change - Khan removed (job deactivated); old Eighties replaced by 5-rank department.
         - EightiesTheBlock
         - EightiesCylinders
         - EightiesPistons
         - EightiesOilers
         - EightiesRoadRash
-        - GreatKhan
+        - WhiteLegs
+        - WhiteLegsWarChief
+        - WhiteLegsBoneBreaker
+        - WhiteLegsStormDrummer
+        - WhiteLegsPainMaker
   items:
     - N14ClothingShoesRaider
 
@@ -1244,6 +1251,7 @@
     - EnclaveJuniorScientist
     - EnclaveScientist
     - EnclaveHeadScientist
+    - EnclaveRemnant
   items:
   - N14ClothingUniformJumpsuitEnclaveBlue
 
@@ -1266,6 +1274,7 @@
     - EnclaveJuniorScientist
     - EnclaveScientist
     - EnclaveHeadScientist
+    - EnclaveRemnant
   items:
   - N14ClothingUniformJumpsuitEnclaveGrey
 
